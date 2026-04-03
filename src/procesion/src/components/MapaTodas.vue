@@ -164,6 +164,7 @@ const cargarUna = async (proc, index, token) => {
     const { x, y } = mejor.geometry;
     const color = colores[index];
 
+    console.log("Hola mundo")
     ubicaciones.value[proc.id] = {
       lat: y,
       lng: x,
