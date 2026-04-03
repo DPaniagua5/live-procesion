@@ -1,0 +1,15 @@
+:root {
+  --primary: #5E0982 ;        
+  --primary-light: #7c3aed;
+
+  --bg: #0f172a;     
+  --card: #1e293b;
+
+  --text: #e2e8f0;
+  --text-light: #94a3b8;
+
+  --border: #334155;
+
+  --radius: 14px;
+  --shadow: 0 6px 25px rgba(0,0,0,0.4);
+}
